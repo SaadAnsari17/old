@@ -1,7 +1,7 @@
 #include<math.h>
 double ff(double x)
 {
- return(sqrt(1-8*x*x);
+ return(exp(x));
 }
 
 void main()
